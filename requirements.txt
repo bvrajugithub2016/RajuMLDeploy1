@@ -1,3 +1,4 @@
+conda config --add channels conda-forge
 numpy
 absl-py==0.9.0
 alabaster==0.7.12
